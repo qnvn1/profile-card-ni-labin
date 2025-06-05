@@ -6,7 +6,7 @@ import Pic from './ahh.jpg';
 
 const ProfileCard = () => {
   return (
-    <div className="bg-white rounded-2xl shadow-lg p-6 max-w-sm mx-auto text-center hover:scale-105 transition-transform">
+    <div className="bg-white rounded-2xl shadow-lg p-6 max-w-lg mx-auto text-center hover:scale-105 transition-transform">
       <img
         src={Pic}
         alt="Your Photo"
