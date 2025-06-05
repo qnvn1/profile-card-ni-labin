@@ -12,7 +12,7 @@ const ProfileCard = () => {
         alt="Your Photo"
         className="w-28 h-28 rounded-full mx-auto border-4 border-blue-500"
       />
-      <h2 className="text-2xl font-semibold mt-4">Adrian Umbao</h2>
+      <h2 className="text-2xl font-semibold mt-4">Dan Ivan E. Labin</h2>
 
       <div className="flex justify-center gap-4 mt-4 text-xl text-gray-600">
         <a href="https://www.tiktok.com/@playerqnvn?is_from_webapp=1&sender_device=pc" className="hover:text-black"><FaTiktok /></a>
